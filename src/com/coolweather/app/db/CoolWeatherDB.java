@@ -32,6 +32,8 @@ public class CoolWeatherDB {
 
 	/**
 	 * 获取CoolWeatherDB的实例。
+	 * 測試Add to index
+	 * 測試Revert
 	 */
 	public synchronized static CoolWeatherDB getInstance(Context context) {
 		if (coolWeatherDB == null) {
